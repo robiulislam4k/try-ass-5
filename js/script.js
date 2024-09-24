@@ -72,22 +72,3 @@ function closeModal() {
 
 }
 
-
-// document.getElementById('onationAmount3').addEventListener('click',function(event){
-//     event.preventDefault();
-
-//     const addMoney=document.getElementById('donationAmount3').value;
-//     const addNum=parseFloat(addMoney);
-//     // const addSum=document.getElementById('donationAmount3');
-//     if(donationAmount>balance){
-//         const addSum=document.getElementById('currentDonation3').innerText;
-//         const addNumSum=parseFloat(addSum);
-//         const total=addNumSum+addNum;
-//         return total;
-//     }
-//     else{
-//         alert('insufficient balance')
-//     }
-    
-
-// })
